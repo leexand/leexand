@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hey, I'm Alex 👋
 
-<!--
-**leexand/leexand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on modular systems, automation and real-time platforms.
 
-Here are some ideas to get you started:
+Currently building **InterWorld**, a multiversal simulation platform designed around persistent systems, event-driven architecture and scalable backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Technologies
+
+- JavaScript / Node.js
+- MongoDB / NoSQL
+- Git & GitHub
+- Discord.js
+- REST APIs
+- Backend architecture
+- Automation systems
+
+---
+
+## 🌌 Featured Projects
+
+### InterWorld
+Modular backend platform for real-time social simulation systems.
+
+Focused on:
+- scalable architecture
+- persistent systems
+- event-driven logic
+- modular backend structure
+- long-term extensibility
+
+---
+
+### Flynn
+Discord voice management system written in Go.
+
+Features:
+- concurrent-safe persistence
+- automatic voice lifecycle handling
+- lightweight architecture
+- JSON persistent storage
+
+---
+
+### Lexo
+Automation and community-oriented Discord systems.
+
+---
+
+## 📚 Currently Learning
+
+- Scalable backend architecture
+- Distributed systems
+- Better database design
+- Performance optimization
+- Software architecture patterns
+
+---
+
+## 🎯 Goals
+
+Build systems that feel alive, scalable and maintainable.
+
+---
+
+## 📫 Contact
+
+- Email: lexand.esc@gmail.com
+- LinkedIn: linkedin.com/in/alexander-escobar-4a971a31b
